@@ -2,7 +2,7 @@
 
 - 我们对Burglin' Gnomes Demo游戏进行了汉化。我们解包并反编译了该游戏获取到了部分源代码，从根本上进行了翻译，并制作了一件翻译补丁install.bat。 
 
-=== Burglin-Gnomes-Demo-Translat-Patch的优点：  
+# Burglin-Gnomes-Demo-Translat-Patch的优点：  
 
 - 1.快捷方便一键安装  
 
