@@ -26,5 +26,18 @@
 
 - 首先你需要将Translate目录复制到游戏根目录下  
 
-- 然后双击Install.bat即可完成汉化  
+- 然后双击Install.bat即可完成汉化
 
+# 国内网盘下载方法
+
+- 蓝奏云网盘：https://wwbhs.lanzoub.com/icnem3nakcod
+
+# 问题反馈 
+
+- 邮箱：lhl2786256218@gmail.com
+  
+- 微信：aswave0 
+
+- 抖音：aswavecodestorm0
+
+- Discord：https://discord.gg/893spUGPU  
