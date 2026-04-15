@@ -13,18 +13,18 @@ Burglin-Gnomes-Demo-Translat-Patch的优点：
 4.安全可靠源代码公开透明  
 
  
-#构建 
+# 构建 
 
-##如果你需要自行构建项目，我们也为你准备好了一件构建脚本build.bat，你只需要安装好所需要的SDK即可编译构建   
+## 如果你需要自行构建项目，我们也为你准备好了一件构建脚本build.bat，你只需要安装好所需要的SDK即可编译构建   
 
-##安装.Net Framework 4.0+（推荐）或MSBuild  
+## 安装.Net Framework 4.0+（推荐）或MSBuild  
 
-##双击Build.bat即可  
+## 双击Build.bat即可  
 
  
-#使用  
+# 使用  
 
-##首先你需要将Translate目录复制到游戏根目录下  
+## 首先你需要将Translate目录复制到游戏根目录下  
 
-##然后双击Install.bat即可完成汉化  
+## 然后双击Install.bat即可完成汉化  
 
